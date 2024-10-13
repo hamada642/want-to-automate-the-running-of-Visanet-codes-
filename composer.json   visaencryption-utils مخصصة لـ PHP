@@ -1,0 +1,10 @@
+{
+  "name": "visa/encryption-utils",
+  "description": "JWE - Encryption & Decryption Utils",
+  "type": "library",
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*",
+    "web-token/jwt-framework": "^v2.2"
+  }
+}
